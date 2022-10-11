@@ -6,7 +6,7 @@ The package has two java files
 
 Paymoney.java : Contains solution to the problem 1.
            
-           Problem statement:
+         Problem statement:
            PayMoney. processes thousands of transactions daily amounting to crores of Rupees. They
            also have a daily target that they must achieve. Given a list of transactions done by
            PayMoney and a daily target, your task is to determine at which transaction PayMoney
@@ -14,7 +14,7 @@ Paymoney.java : Contains solution to the problem 1.
            
 
               
-TravellerDenominations.java: contains solution to problem2
+TravellerDenominations.java: Contains solution to problem 2.
          
          Problem statement:
            You are a traveler and traveling to a country where the currency denominations are
@@ -22,4 +22,4 @@ TravellerDenominations.java: contains solution to problem2
            You want to make a payment of amount x, in such a way that the higher denomination is
            used to make exact payment.
 
-Both files have main method. They can br run as java application
+Both files have main method. They can be run individually as java application and verify the output expected.
